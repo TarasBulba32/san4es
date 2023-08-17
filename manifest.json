@@ -1,0 +1,48 @@
+{
+  "name": "San4es Studios",
+  "short_name": "San4es Studios",
+  "theme_color": "#f44336",
+  "background_color": "#808080",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "index.html",
+  "icons": [
+    {
+      "src": "icons/16.png",
+      "sizes": "16x16",
+	  "type":"image/png"
+    },
+   {
+      "src": "icons/32.png",
+      "sizes": "32x32",
+	  "type":"image/png"
+    },
+  
+    {
+      "src": "icons/48.png",
+      "sizes": "48x48",
+	  "type":"image/png"
+    },
+        {
+      "src": "icons/72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+  
+    {
+      "src": "icons/120.png",
+      "sizes": "120x120",
+	  "type":"image/png"
+    },
+	{
+      "src": "icons/96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+        {
+      "src": "icons/144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+ ]
+}
